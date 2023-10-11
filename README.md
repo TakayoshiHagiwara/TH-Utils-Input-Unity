@@ -15,6 +15,11 @@ Unityにおける入力関連のメソッドを扱います。
   - [InputExtentions class](#inputextentions-class)
     - [Definition](#definition)
     - [Methods](#methods)
+- [References](#references)
+- [Troubleshooting](#troubleshooting)
+- [Versions](#versions)
+- [Author](#author)
+- [License](#license)
 </details>
 
 
@@ -42,3 +47,22 @@ UnityEngine.Inputクラスを拡張する静的メソッドを提供します。
 | [AnyKeyDownExceptSpecificKeyCode(KeyCode)](/Docs~/doc_InputExtentions.md#anykeydownexceptspecifickeycodekeycode) | 指定したキーコード以外の何らかのキーが押下されたかどうかを判定します。 |
 | [AnyKeyDownExceptSpecificKeyCode(List<KeyCode>)](/Docs~/doc_InputExtentions.md#anykeydownexceptspecifickeycodelist) | 引数のListに含まれるキーコード以外の何らかのキーが押下されたかどうかを判定します。 |
 | [GetInputKeyCode()](/Docs~/doc_InputExtentions.md#getinputkeycode) | 押下されたキーのキーコードを返します。 |
+
+
+# References
+
+
+# Troubleshooting
+
+
+# Versions
+- [CHANGELOG](/CHANGELOG.md)
+
+
+# Author
+- Takayoshi Hagiwara
+    - Toyohashi University of Technology
+
+
+# License
+- MIT License
