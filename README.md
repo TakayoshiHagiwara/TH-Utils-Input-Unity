@@ -11,7 +11,6 @@ Unityにおける入力関連のメソッドを扱います。
 - [Environment](#environment)
 - [Installation](#installation)
   - [Unity Package Manager経由での導入](#unity-package-manager経由での導入)
-  - [UnityPackageによる導入](#unitypackageによる導入)
 - [Description](#description)
   - [InputExtentions class](#inputextentions-class)
     - [Definition](#definition)
@@ -27,12 +26,6 @@ Unityにおける入力関連のメソッドを扱います。
 1. Window -> Package Managerを開きます
 2. 左上のプラスアイコンをクリックし、「Add package from git URL...」をクリックします
 3. このリポジトリURLを入力し、addをクリックします
-
-## UnityPackageによる導入
-1. Unityで新規プロジェクトを作成
-1. Githubからダウンロードしたunitypackageをインポート
-    - <a href="https://github.com/TakayoshiHagiwara/TH-Utils-Input-Unity/releases" target="_blank" rel="noopener noreferrer">Releases</a>からUnityPackageをダウンロード
-    - Unityを開き、Edit → Import Package → Custom Package…
 
 
 # Description
