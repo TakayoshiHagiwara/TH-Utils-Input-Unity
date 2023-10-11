@@ -1,0 +1,14 @@
+{
+  "name": "com.takayoshihagiwara.th-utils-input",
+  "version": "1.0.0",
+  "displayName": "TH-Utils-Input",
+  "description": "This is utilities for Input class",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "keywords": [
+    "input"
+  ],
+  "author": {
+    "name": "Takayoshi Hagiwara"
+  }
+}
